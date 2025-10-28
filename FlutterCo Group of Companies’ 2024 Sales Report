@@ -1,0 +1,97 @@
+FlutterCo Group of Companies’ 2024 Sales Report
+
+Introduction Story of Data
+
+Every number tells a story, and FlutterCo’s 2024 sales data is no exception. This dataset captures a full year of sales activity tracking regional trends, city-level revenues, product performance, representative efficiency, and top customers. The goal? To uncover actionable insights that will fuel smarter business decisions for the upcoming fiscal year.
+
+Data Splitting and Preprocessing
+Project Split
+
+Category one-Independent value
+
+Customer Name
+Address
+City
+State
+Ship Name
+Payment Type
+Category
+Product Name
+Shipped Date
+Category two- Dependent Value
+
+Unit price
+Revenue
+Shipping Fee
+Quantity
+Before analysis, missing monthly data points were interpolated and regional totals validated to ensure accuracy across metrics.
+
+Pre-Analysis
+The initial review focused on:
+
+Nancy Free Hafer leads with $104,252.34, significantly higher than the rest.
+Anne Larsen follows with $93,858.33, closely as Nancy.
+The top three (Nancy, Anne, Andrew) has sales above $67,000, showing a strong lead over others.
+Mariya, Laura, and Michael have sales in the $37K–$42K range, forming the mid-performing group.
+Robert Zare and Jan Kotas are the lowest, with Jan Kotas at the bottom at $16,350.50.
+North leads with the highest revenue $141,680.34
+East follows with $108,275.51
+south and east have similar figures generating revenue$93,858.33, $91,251.98 respectively.
+Customer D contributes the highest with $67,180.50 in sales.
+Customer H and Customer BB follow with $50,208.35 and $43,713.00, respectively.
+Customers F, A, and I each contributed between $32K–$37K, indicating a solid base of mid-value clients.
+The lowest contributors are Customer Z, C, and K, with Customer K at just $21,937.08.
+There’s a steady decline from top to bottom.
+Top-performing entities (city, region, rep, customer)
+At first glance, New York City emerged as the highest revenue generator, and the North region led overall sales. Beverages stood out as the most profitable product line.
+
+In-Analysis
+1. Sales Trends
+The sales trend line reveals a steady increase peaking in July ($55,601.61) and December ($56,542.78), with noticeable dips in February ($19,985.50) and April ($20,771.79) — typical of seasonal purchase cycles.
+
+2. Regional & City Performance
+North Region: $141,680.34 — the strongest market, accounting for the bulk of annual revenue.
+Top City: New York ($67,180.50) led by a significant margin.
+3. Product Category Insights
+Beverages: 47.84% of total sales
+Sauces: 29.85%
+Jams & Preserves: 22.30%
+4. Sales Reps
+Nancy Free Hefer was the top performer, driving 39.30% of all sales, followed by Anne Larsen (35.38%).
+5. Customer Performance
+Company D: 41.70% of sales clearly the top client.
+Company H and BB followed, representing 31.17% and 27.13%, respectively.
+Post-Analysis and Insights
+North region and New York are clear growth anchors for FlutterCo.
+Beverage sales dominance suggests this category should remain a strategic focus area.
+Nancy Free Hefer’s performance highlights the potential for peer training programs or incentive structures.
+Transaction sizes: Most frequent transactions are small (1–100), but a notable high-value transaction (218 units) suggests potential in bulk order promotion.
+Data Visualizations & Charts
+The dashboard’s visuals included:
+
+Line chart for monthly sales trends
+
+Bar charts for city and representative performance
+
+Pie chart for regional contribution
+
+Horizontal bars for top customers and product categories
+
+Geographical map for state-wise performance distribution
+
+Each visualization contributes to a multi-dimensional understanding of how and where FlutterCo drives value.
+
+Recommendations and Observations
+Expand in the North region particularly around high-performing states and cities like New York.
+Leverage beverage success by diversifying flavors or packaging innovations.
+Motivate lower-performing reps with targeted training modeled after top performers.
+Develop loyalty programs for top customers (especially Company D) to ensure retention.
+Smooth out seasonal dips via promotions in historically weaker months (Feb & Apr).
+Conclusion
+FlutterCo’s 2024 sales data tells a story of growth led by strong regional performance, outstanding representatives, and clear product favorites. By reinforcing high-performing areas and addressing underperforming segments, the company is well-positioned to achieve even greater success in 2025.
+
+References & Appendices
+Source: Kaggle FlutterCo 2024 Sales Dashboard
+Visualization Tools: Excel, Pivot Table, Pivot Charts, Data Visualization
+Data Period: January — December 2024
+Institution: Vephla University
